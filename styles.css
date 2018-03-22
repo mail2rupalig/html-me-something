@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+    color: red;
+}
+h2{
+    text-align:center;
+    color: red;
+}
+
+body{
+
+}
+    p{
+    margin: 0 70px 50px 0
+    background-color:light pink;
+    text-align: center;
+    }
+    {b
+    #hometown{
+        background-color:yellow;}
+    }
+
+        div{
+            padding-top: 20px;
+            padding-right: 20px;
+            padding-bottom: 50px;
+            padding-left: 80px;
+        }
+    p{
+        <p id="hometown">hometown.</p>
+   
+}
+footer{
+	border-bottom: 1px #ccc solid;
+	margin-bottom: 10px;
+}
+	#footer p{
+		text-align: right;
+		text-transform: lowercase;
+		font-size: 80%;
+		color: grey;
+    }
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+    
+    .item {
+        width: 120px;
+        height: 120px;
+        height: auto;
+        float: left;
+        margin: 3px;
+        padding: 3px;
+    }
+    
